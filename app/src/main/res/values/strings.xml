@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">ChatApp-Android</string>
-    <string name="chat_app">Chat App</string>
+    <string name="app_title_text">Chat App</string>
 </resources>
